@@ -82,7 +82,7 @@ In essence, Square, Inc.'s journey in the fintech sector reflects a keen underst
 ---
 
 
-### Recommendations**
+### Recommendations
 
 Based on the research:
 
