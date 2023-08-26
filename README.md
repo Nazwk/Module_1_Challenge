@@ -6,7 +6,7 @@
 
 
 
-**Description:** Square, Inc. is a fintech company that has transformed the payment processing industry with its smartphone card reader. They have since expanded to provide businesses with a range of tools, including point-of-sale solutions, business financing, and online payments. Their Cash App platform has also become extremely popular for personal money transfers, serving both small businesses and individuals.
+Square, Inc. is a fintech company that has transformed the payment processing industry with its smartphone card reader. They have since expanded to provide businesses with a range of tools, including point-of-sale solutions, business financing, and online payments. Their Cash App platform has also become extremely popular for personal money transfers, serving both small businesses and individuals.
 
 * **Domain:** Payment Processing & Financial Services
 * **Audience:** Small to Medium Businesses & General Public
